@@ -24,7 +24,7 @@ export default class ContentWrapper extends React.Component {
     return <div>
       <Header />
       <div id="body-wrap">
-        <div className="dev-warning"><strong>Please do not ask for help with timings in #spigot</strong></div>
+        <div className="dev-warning"><strong>Please do not ask for help with timings on the SpigotMC or PaperMC forums or their Discords</strong></div>
 
 
         <ContentTop/>
